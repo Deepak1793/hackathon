@@ -1,0 +1,22 @@
+#natwest{
+  max-height: 100px;
+  max-width: 100px;;
+}
+
+body{
+/* background-image: url(imgg.jpg); */
+background-size: cover;
+background-color: rgb(250, 237, 237);
+
+}
+
+.body-content{
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 40px;
+}
+
+.userclass{
+ 
+  background-color: rgb(128, 128, 128)
+}

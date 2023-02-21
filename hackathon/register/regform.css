@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600i&display=swap');
+
+
+body {
+  font-family:monospace;
+  
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+.btn:hover {
+  background: rgb(226, 226, 51);
+  /* transition: all .4s ease-out; */
+}
+

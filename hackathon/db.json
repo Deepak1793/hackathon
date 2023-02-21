@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "name": "Deepakk",
+      "email": "d@gmail.com",
+      "address": "basti",
+      "anumber": "12345",
+      "mobilenumber": "7912121212",
+      "password": "123333333",
+      "id": 1
+    },
+    {
+      "name": "dee",
+      "email": "deepak@gmai.com",
+      "address": "delhi",
+      "anumber": "123456",
+      "mobilenumber": "7891234566",
+      "password": "D@12345",
+      "id": 2
+    }
+  ]
+}
